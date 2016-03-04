@@ -6,8 +6,11 @@
   "scripts": {
     "test": "test"
   },
-  "author": "",
-  "license": "ISC",
+"author": {
+    "name": "Daniel Norton",
+    "email": "daniel@dnorton.org"
+  },  
+  "license": "MIT",
   "dependencies": {
     "express": "^4.13.4"
   }
