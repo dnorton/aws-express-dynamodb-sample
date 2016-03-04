@@ -1,0 +1,14 @@
+{
+  "name": "aws-express-dynamodb-sample",
+  "version": "1.0.0",
+  "description": "a sample express app that connects to dynamodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
